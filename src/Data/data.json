@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Dosa",
+    "amt": "50",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/dosa.png",
+    "latest": "no"
+  },
+
+  {
+    "id": 2,
+    "name": "Idli",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/Idli.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 3,
+    "name": "Vada",
+    "amt": "15",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/Vada.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 4,
+    "name": "Pongal",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/Pongal.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 5,
+    "name": "Poori",
+    "amt": "60",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/Boori.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "amt": "25",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/Coffee.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 7,
+    "name": "Egg Roast",
+    "amt": "45",
+    "shop": "Amman Food stall",
+    "ftype": "Mor",
+    "pic": "../src/assets/Egg_Roast.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 8,
+    "name": "Paroto(2)",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/parotta.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 9,
+    "name": "Biriyani",
+    "amt": "120",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/Briyani.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 10,
+    "name": "Fried Rice",
+    "amt": "160",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/Fried_rice.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 11,
+    "name": "Fried Noodles",
+    "amt": "160",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/noodles.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 12,
+    "name": "Egg Rice",
+    "amt": "110",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/Egg_rice.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 13,
+    "name": "Egg Noodles",
+    "amt": "110",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/Egg_noodles.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 14,
+    "name": "Kotthu Parota",
+    "amt": "125",
+    "shop": "Kerala Mess",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/Kotthu.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 15,
+    "name": "Grill Chicken",
+    "amt": "500",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/Grill.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 16,
+    "name": "BBQ",
+    "amt": "480",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/BBQ.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 17,
+    "name": "Thanthori",
+    "amt": "440",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/Thanthoori.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 18,
+    "name": "Naan(2) + Banner Butter Masala ",
+    "amt": "140",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/naan_Banner.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 19,
+    "name": "Fish Fry",
+    "amt": "180",
+    "shop": "Ammikal",
+    "ftype": "Night",
+    "pic": "../src/assets/fishFry.jpeg",
+    "latest": "no"
+  },
+  {
+    "id": 20,
+    "name": "Fish Finger",
+    "amt": "220",
+    "shop": "Ammikal",
+    "ftype": "Night",
+    "pic": "../src/assets/fishfinger.jpeg",
+    "latest": "no"
+  }
+]

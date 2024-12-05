@@ -1,0 +1,39 @@
+.product {
+  width: 200px;
+  min-height: 230px;
+  border: 2px solid #888;
+}
+.product .img {
+  width: 100%;
+  height: 150px;
+}
+.product .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.details {
+  padding: 10px 5px;
+}
+.details h3 {
+  font-size: 18px;
+  padding-bottom: 5px;
+}
+.details p {
+  font-weight: 600;
+  padding-bottom: 5px;
+  color: #7e7c7c;
+}
+.details button {
+  margin-top: 5px;
+  padding: 7px;
+  background-color: royalblue;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 400;
+  cursor: pointer;
+}
+.removeBtn {
+  background-color: rgb(233, 94, 94) !important;
+}
